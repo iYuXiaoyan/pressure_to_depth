@@ -18,7 +18,7 @@ Convert **pressure (dbar) → depth (m)** using the *Sea-Bird SBE 37 simplified 
 
 ### 1. Grab the latest release  
 Download `pressure2depth.exe` (Windows) or `pressure2depth` (macOS/Linux) from  
-[Releases ➜](https://github.com/<your-name>/pressure_to_depth/releases)
+[Releases ➜](https://github.com/iyuxiaoyan/pressure_to_depth/releases)
 
 ### 2. Prepare your CSV  
 Use the provided template [`input.csv`](input.csv):
